@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/exercise.iml" filepath="$PROJECT_DIR$/exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lamda collections/lamda collections.iml" filepath="$PROJECT_DIR$/lamda collections/lamda collections.iml" />
     </modules>
   </component>
 </project>
